@@ -2,8 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
-Laura's Website
-name: Laura
+# Name of your site (displayed in the header)
+name: Laura's Website
 description: Student at UTD, getting Masters in Applied SOC. Currenlty learning evaulation courses.  
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
