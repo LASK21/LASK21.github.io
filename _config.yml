@@ -2,49 +2,12 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
+Laura's Website
 name: Laura
-# Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Student at UTD, getting Masters in Applied SOC. Currenlty learning evaulation courses.  
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
-![my picture](IMG_0515.JPG)
-
-This is Laura Kobs
-
-![Assignment 1](https://lask21.github.io/Assignment%20Reading%201.pdf)
-
-![Assignment 2](https://lask21.github.io/Assignment%202.pdf)
-
-![Assignment 3](https://lask21.github.io/Assignment%203.pdf)
-
-Assignment 4
-
-### Markdown
-
-![Lab 1](https://lask21.github.io/Lab01.html)
-
-![Lab 2](https://lask21.github.io/Lab02.html)
-
-![Lab 3](https://lask21.github.io/Lab03.html)
-
-![Lab 4](https://lask21.github.io/Lab04.html)
-
-![Lab 5](https://lask21.github.io/Lab05.html)
-
-![Lab 5](https://lask21.github.io/Lab5.html)
-
-![Gentle Introduction](https://lask21.github.io/GentleInto.Rmd.html)
-
-![textdata_mining01.R](https://lask21.github.io/textdatamining01.html)
-
-![Churchill](https://lask21.github.io/Churchill.html) 
-
-![tidytext01.R](https://lask21.github.io/Tidytext.html)
-
-![syuzhet01.R](https://lask21.github.io/Syuzhet.html)
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -54,4 +17,4 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "
+baseurl: "lask21.github.io"
