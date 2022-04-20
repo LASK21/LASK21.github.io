@@ -7,17 +7,17 @@ title: Laura's posts
 
 This is Laura Kobs
 
-![Assignment 1](https://lask21.github.io/Assignment%20Reading%201.pdf)
+![Assignment 1](https://lask21.github.io/Hello-World/Assignment%20Reading%201.pdf)
 
-![Assignment 2](https://lask21.github.io/Assignment%202.pdf)
+![Assignment 2](https://lask21.github.io/Hello-World/Assignment%202.pdf)
 
-![Assignment 3](https://lask21.github.io/Assignment%203.pdf)
+![Assignment 3](https://lask21.github.io/Hello-World/Assignment%203.pdf)
 
 Assignment 4
 
 ### Markdown
 
-![Lab 1](https://lask21.github.io/Lab01.html)
+![Lab 1](https://lask21.github.io/Hello-World/Lab01.html)
 
 ![Lab 2](https://lask21.github.io/Lab02.html)
 
@@ -38,3 +38,9 @@ Assignment 4
 ![tidytext01.R](https://lask21.github.io/Tidytext.html)
 
 ![syuzhet01.R](https://lask21.github.io/Syuzhet.html)
+
+![Linarregression.html](https://lask21.github.io/Linarregression.html)
+
+![LogisticRegression01.html](https://lask21.github.io/LogisticRegression01.html)
+
+![LDA01.R]()
