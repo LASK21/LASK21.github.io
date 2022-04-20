@@ -3,11 +3,11 @@ layout: post
 title: Laura's posts
 ---
 
-![my picture](IMG_0515.JPG)
+[my picture](IMG_0515.JPG)
 
 This is Laura Kobs
 
-![Assignment 1](https://lask21.github.io/Hello-World/Assignment%20Reading%201.pdf)
+[Assignment 1](https://lask21.github.io/Hello-World/Assignment%20Reading%201.pdf)
 
 ![Assignment 2](https://lask21.github.io/Hello-World/Assignment%202.pdf)
 
