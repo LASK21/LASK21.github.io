@@ -17,7 +17,7 @@ Assignment 4
 
 ### Markdown
 
-![Lab 1](https://lask21.github.io/Hello-World/Lab01.html)
+![Lab 1](https://lask21.github.io/Lab01.html)
 
 ![Lab 2](https://lask21.github.io/Lab02.html)
 
@@ -39,8 +39,8 @@ Assignment 4
 
 ![syuzhet01.R](https://lask21.github.io/Syuzhet.html)
 
-![Linarregression.html](https://lask21.github.io/Linarregression.html)
+![Linarregression.html](https://lask21.github.io/Linarragression.html)
 
-![LogisticRegression01.html](https://lask21.github.io/LogisticRegression01.html)
+![LogisticRegression01.html](https://lask21.github.io/LogisiticRegression01.R.html)
 
 ![LDA01.R]()
