@@ -3,7 +3,7 @@ layout: post
 title: Laura's posts
 ---
 
-[my picture](IMG_0515.JPG)
+![my picture](IMG_0515.JPG)
 
 This is Laura Kobs
 
