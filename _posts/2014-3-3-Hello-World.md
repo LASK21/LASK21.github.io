@@ -33,6 +33,10 @@ This is Laura Kobs
 
 [Lab 4](https://lask21.github.io/Lab04.html)
 
+[Lab 4.2](https://lask21.github.io/Lab04.2.html)
+
+[Lab 4.3](https://lask21.github.io/Lab04.3.html)
+
 [Lab 5](https://lask21.github.io/Lab05.html)
 
 [Gentle Introduction](https://lask21.github.io/GentleInto.Rmd.html)
