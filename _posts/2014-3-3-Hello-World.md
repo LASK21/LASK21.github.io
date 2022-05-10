@@ -13,6 +13,14 @@ This is Laura Kobs
 
 [Assignment 3](https://lask21.github.io/Assignment%203.pdf)
 
+[Assignment 4]()
+
+[Assignment 5]()
+
+[Assignment 6]()
+
+[Assignment 7](https://lask21.github.io/Assignment%203.pdf)
+
 [Progress Report](https://lask21.github.io/kobs_proposal.pdf,%20laura_progressreport1(3).pdf)
 
 ### Markdown
@@ -26,8 +34,6 @@ This is Laura Kobs
 [Lab 4](https://lask21.github.io/Lab04.html)
 
 [Lab 5](https://lask21.github.io/Lab05.html)
-
-[Lab 5](https://lask21.github.io/Lab5.html)
 
 [Gentle Introduction](https://lask21.github.io/GentleInto.Rmd.html)
 
