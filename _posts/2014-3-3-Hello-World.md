@@ -13,9 +13,9 @@ This is Laura Kobs
 
 [Assignment 3](https://lask21.github.io/Assignment3.htm)
 
-[Assignment 4] - Markdown compelete (https://lask21.github.io/Assignment)
+[Assignment 4] - Markdown compelete 
 
-[Assignment 5] - Markdown complete (https://lask21.github.io/Assignment)
+[Assignment 5] - Markdown complete 
 
 [Assignment 6](https://lask21.github.io/Assignment6.htm)
 
