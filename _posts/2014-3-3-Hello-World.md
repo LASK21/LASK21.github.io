@@ -7,19 +7,21 @@ title: Laura's posts
 
 This is Laura Kobs
 
-[Assignment 1](https://lask21.github.io/Assignment%20Reading%201.pdf)
+[Assignment 1](https://lask21.github.io/Assignment1.htm)
 
-[Assignment 2](https://lask21.github.io/Assignment%202.pdf)
+[Assignment 2](https://lask21.github.io/Assignment2.htm)
 
-[Assignment 3](https://lask21.github.io/Assignment%203.pdf)
+[Assignment 3](https://lask21.github.io/Assignment3.htm)
 
-[Assignment 4]()
+[Assignment 4] - Markdown compelete (https://lask21.github.io/Assignment)
 
-[Assignment 5]()
+[Assignment 5] - Markdown complete (https://lask21.github.io/Assignment)
 
-[Assignment 6]()
+[Assignment 6](https://lask21.github.io/Assignment6.htm)
 
-[Assignment 7](https://lask21.github.io/Assignment%203.pdf)
+[Assignment 7](https://lask21.github.io/Assignment7.htm)
+
+[Assignment 8](https://lask21.github.io/Assignment8.htm)
 
 [Progress Report](https://lask21.github.io/kobs_proposal.pdf,%20laura_progressreport1(3).pdf)
 
