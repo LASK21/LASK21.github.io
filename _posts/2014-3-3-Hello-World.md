@@ -59,8 +59,8 @@ This is Laura Kobs
 
 Shapley01.R was unable to be uploaded to due inconveniences
 
-[Final Paper](https://lask21.github.io/Kobs_finalpaper.pdf, Laura_FinalPaper.htm)
+[Final Paper](https://lask21.github.io/Kobs_finalpaper.pdf,Laura_FinalPaper.htm)
 
 [Data set](https://lask21.github.io/JTTW.htm)
 
-[Powerpoint Presentation](https://lask21.github.io/JTTW Presentation.pdf)
+[Powerpoint Presentation](https://lask21.github.io/JTTW_Presentation.pdf)
