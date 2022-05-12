@@ -56,3 +56,11 @@ This is Laura Kobs
 [LogisticRegression01.html](https://lask21.github.io/LogisiticRegression01.R.html)
 
 [LDA01.R](https://lask21.github.io/LDA01.Rmd.html)
+
+Shapley01.R was unable to be uploaded to due inconveniences
+
+[Final Paper](https://lask21.github.io/Kobs_finalpaper.pdf, Laura_FinalPaper.htm)
+
+[Data set](https://lask21.github.io/JTTW.htm)
+
+[Powerpoint Presentation](https://lask21.github.io/JTTW Presentation.pdf)
