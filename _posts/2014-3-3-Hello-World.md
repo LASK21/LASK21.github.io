@@ -57,7 +57,7 @@ This is Laura Kobs
 
 [LDA01.R](https://lask21.github.io/LDA01.Rmd.html)
 
-Shapley01.R was unable to be uploaded to due inconveniences
+[Shapley](https://lask21.github.io/ShapleyV.Rmd.html)
 
 [Final Paper](https://lask21.github.io/Kobs_finalpaper.pdf,Laura_FinalPaper.htm)
 
